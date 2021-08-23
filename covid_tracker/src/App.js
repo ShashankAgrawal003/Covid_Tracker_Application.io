@@ -9,3 +9,4 @@ render(){
     )
 }
 }
+export default App;
