@@ -1,0 +1,14 @@
+*{
+    margin:0px;
+    padding:0px;
+    font-style: arial;
+}
+body{
+    background-image: linear-gradient(to right,grey,lightgrey);
+}
+.container{
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    
+}
